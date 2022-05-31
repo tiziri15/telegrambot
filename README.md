@@ -1,6 +1,6 @@
 #  Telegramebot 
 
-In this project we create a telegram bot which can send and replay for messages that we need to in telegram. 
+In this project we created0 a telegram bot for automatic replies. 
 ## Followed steps
 1. we must have a telegram account then found the officiel account of @Botfather then we clic on "start"
 
