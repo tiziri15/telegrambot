@@ -1,4 +1,4 @@
-#  Telegramebot (this work has been realized by me:TAMANI TIZIRI and TERRACHET KATIA)
+#  Telegramebot 
 
 In this project we create a telegram bot which can send and replay for messages that we need to in telegram. 
 ## Followed steps
@@ -26,3 +26,10 @@ In this project we create a telegram bot which can send and replay for messages 
   
   3.In the end we go to test our telegram bot, then to start we search for @GTRRo-bot then we start send messages.
   
+Realized by : 
+
+- TAMANI Tiziri (tamanitiziri@gmail.com)
+- TERRACHET Katia (katiaterrachet@gmail.com)
+
+
+
